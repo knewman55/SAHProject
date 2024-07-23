@@ -2,7 +2,7 @@
 1
 EXCLUDE
 "??????Exclude?????? - need to compare, see notes"
-Pilot Control 
+Pilot Control
 EXCLUDE
 1
 0
@@ -10,26 +10,26 @@ EXCLUDE
 EXCLUDE
 EXCLUDE
 1
-Pilot Control 
-EXCLUDE
-BB Control
-1
-1
-1
-BB Control
-0
-1
-EXCLUDE
-1
-0
-0
+Pilot Control
 EXCLUDE
 BB Control
 1
 1
+1
+BB Control
+0
+1
+EXCLUDE
+1
+0
+0
+EXCLUDE
+BB Control
+1
+1
 EXCLUDE
 0
-Pilot Control 
+Pilot Control
 1
 1
 0
@@ -38,7 +38,7 @@ Pilot Control
 0
 0
 1
-Pilot Control 
+Pilot Control
 1
 1
 1
@@ -54,11 +54,11 @@ Pilot Control
 0
 0
 0
-Pilot Control 
+Pilot Control
 0
 0
 0
-Pilot Control 
+Pilot Control
 1
 1
 0
